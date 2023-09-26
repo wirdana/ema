@@ -31,8 +31,3 @@ http://kuchini.site:8080/devtv/5af3eeb538/298570
 http://kuchini.site:8080/devtv/5af3eeb538/298571
 #EXTINF:-1 tvg-id="" tvg-name="2: SpoTV 2" tvg-logo="" group-title="VIP",16. Upin & Ipin
 http://kuchini.site:8080/devtv/5af3eeb538/298501
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="Indonesia Channels",RCTI HD
-https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
