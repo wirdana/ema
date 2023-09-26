@@ -29,6 +29,8 @@ http://kuchini.site:8080/devtv/5af3eeb538/298550
 http://kuchini.site:8080/devtv/5af3eeb538/298570
 #EXTINF:-1 tvg-id="" tvg-name="2: SpoTV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png" group-title="VIP",l5. SpoTV 2
 http://kuchini.site:8080/devtv/5af3eeb538/298571
+#EXTINF:-1 tvg-id="" tvg-name="2: SpoTV 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1G7LZyp1pDJjAzNK2pr-j29GyuqgTu7wHJg&usqp=CAU" group-title="VIP",16. Upin & Ipin
+http://kuchini.site:8080/devtv/5af3eeb538/298501
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
