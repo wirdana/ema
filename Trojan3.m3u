@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="1: Indosiar" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png" group-title="INDONESIA",1. Indosiar
+http://tvkuonline.my.id:25461/riyad/riyad/14
+#EXTINF:-1 tvg-id="" tvg-name="1: SCTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="INDONESIA",2. SCTV
+http://tvkuonline.my.id:25461/riyad/riyad/16
+#EXTINF:-1 tvg-id="" tvg-name="1: MNC TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="INDONESIA",3. MNC TV
+http://tvkuonline.my.id:25461/riyad/riyad/9
+#EXTINF:-1 tvg-id="" tvg-name="1: Bali TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/8665e7afb44b5a32eb3b9e0fa2b9b12f.png" group-title="INDONESIA",4. Bali TV
+http://kuchini.site:8080/F30140/f3de2280/197962
+#EXTINF:-1 tvg-id="" tvg-name="1: RCTI" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="INDONESIA",5. RCTI
+http://tvkuonline.my.id:25461/riyad/riyad/8
+#EXTINF:-1 tvg-id="" tvg-name="1: ANTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="INDONESIA",6. ANTV
+http://tvkuonline.my.id:25461/riyad/riyad/17
+#EXTINF:-1 tvg-id="" tvg-name="1: Trans 7" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="INDONESIA",7. Trans 7
+http://tvkuonline.my.id:25461/riyad/riyad/15
+#EXTINF:-1 tvg-id="" tvg-name="1: Trans TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="INDONESIA",8. Trans TV
+http://tvkuonline.my.id:25461/riyad/riyad/13
+#EXTINF:-1 tvg-id="" tvg-name="1: TV One" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="INDONESIA",9. TV One
+http://tvkuonline.my.id:25461/riyad/riyad/10
+#EXTINF:-1 tvg-id="" tvg-name="1: GTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="INDONESIA",10. GTV
+http://tvkuonline.my.id:25461/riyad/riyad/11
+#EXTINF:-1 tvg-id="" tvg-name="1: Metro TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png" group-title="INDONESIA",l1. Metro TV
+http://tvkuonline.my.id:25461/riyad/riyad/12
+#EXTINF:-1 tvg-id="" tvg-name="1: Net" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="INDONESIA",l2 Net
+http://tvkuonline.my.id:25461/riyad/riyad/18
+#EXTINF:-1 tvg-id="" tvg-name="1: Cnn Indonesia" tvg-logo="" group-title="VIP",l3. Cnn Indonesia
+http://tvkuonline.my.id:25461/riyad/riyad/25
+#EXTINF:-1 tvg-id="" tvg-name="1: Moji" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="INDONESIA",l4. Moji
+http://tvkuonline.my.id:25461/riyad/riyad/24
+#EXTINF:-1 tvg-id="" tvg-name="2: Inews" tvg-logo="" group-title="VIP",I5. Inews
+http://tvkuonline.my.id:25461/riyad/riyad/22
